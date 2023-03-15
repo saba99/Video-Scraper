@@ -6,7 +6,7 @@
 
 ## About the Data
 
-Web scraping was performed on the _Top 10 Tech Channels_ on Youtube using _[Selenium](https://selenium-python.readthedocs.io/)_ (an automated browser (driver) controlled using python, which is often used in web scraping and web testing).  Web scrapped Youtube channels were  were determined using a __[Top 10 Tech Youtubers](https://blog.bit.ai/top-tech-youtubers/)__ list from [blog.bit.ai](https://blog.bit.ai/). 
+Web scraping was performed on the _Top 10 Tech Channels_ on Youtube using _[Selenium](https://selenium-python.readthedocs.io/)_ (an automated browser (driver) controlled using python, which is often used in web scraping and web testing). 
 
 <br>
 
@@ -64,4 +64,4 @@ The average number of videos per channel was around 200.  In total, the data fro
 
 ## Colab Link
 
-["Data Analysis of Youtube Tech Channels"](https://colab.research.google.com/drive/1UxpBBsypGqUj7816zyvGNhJcPfaxBP_c?usp=sharing)
+[Data Analysis of Youtube Tech Channels](https://colab.research.google.com/drive/1UxpBBsypGqUj7816zyvGNhJcPfaxBP_c?usp=sharing)
