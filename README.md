@@ -62,6 +62,6 @@ The average number of videos per channel was around 200.  In total, the data fro
 <br>
 <br>
 
-## Project Links
+## Colab Link
 
-[<img src="https://img.shields.io/badge/google%20colab-%23FFCC22.svg?&style=flat-&logo=google%20colab&logoColor=black" />  "Data Analysis of Youtube Tech Channels"](https://colab.research.google.com/drive/1UxpBBsypGqUj7816zyvGNhJcPfaxBP_c?usp=sharing)
+["Data Analysis of Youtube Tech Channels"](https://colab.research.google.com/drive/1UxpBBsypGqUj7816zyvGNhJcPfaxBP_c?usp=sharing)
